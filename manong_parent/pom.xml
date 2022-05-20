@@ -41,7 +41,7 @@
         <pagehelper.version>4.1.1</pagehelper.version>
         <httpclient.version>4.3.2</httpclient.version>
         <commons-net.version>3.3</commons-net.version>
-        <gson.verson>2.7</gson.verson>
+        <gson.verson>2.8.9</gson.verson>
     </properties>
     <!--子模块需要使用的时候才会用到-->
     <dependencyManagement>
